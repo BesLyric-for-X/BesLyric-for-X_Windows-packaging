@@ -1,0 +1,3 @@
+[submodule "iss_Inno-Setup-Chinese-Simplified-Translation"]
+	path = iss/zh_CN
+	url = https://github.com/kira-96/Inno-Setup-Chinese-Simplified-Translation
